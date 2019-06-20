@@ -25,3 +25,5 @@ The dataset consists of 60,000 32x32 color images and 6,000 images of each class
 Images have low resolution (32x32).
 
 Data Source: https://www.cs.toronto.edu/~kriz/cifar.html
+
+Improved the Model using Data Augmentation
