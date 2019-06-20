@@ -5,16 +5,17 @@ PROBLEM STATEMENT:
 
 CIFAR-10 is a dataset that consists of several images divided into the following 10 classes:
 
-Airplanes
-Cars
-Birds
-Cats
-Deer
-Dogs
-Frogs
-Horses
-Ships
-Trucks
+Airplanes,
+Cars,
+Birds,
+Cats,
+Deer,
+Dogs,
+Frogs,
+Horses,
+Ships,
+Trucks,
+
 The dataset stands for the Canadian Institute For Advanced Research (CIFAR)
 
 CIFAR-10 is widely used for machine learning and computer vision applications.
